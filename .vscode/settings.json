@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.foldingImportsByDefault": true
+}
