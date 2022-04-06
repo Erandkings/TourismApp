@@ -15,10 +15,10 @@ class Location {
         'Mountain Drive',
         'assets/images/earth.jpg',
         [
-          LocationFacts('TitleSummary',
+          LocationFacts('Summary1',
               'This is the summary of the first title and generic list class'),
           LocationFacts(
-            'TitleSummary2',
+            'Summary2',
             'This is the summary of the second title and generic list class',
           )
         ],
