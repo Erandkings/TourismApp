@@ -15,10 +15,7 @@ class App extends StatelessWidget {
 
       //Using theme and ThemeData to customize your text
       theme: ThemeData(
-        appBarTheme: const AppBarTheme(
-          titleTextStyle: appBarTextStyle
-      ),
-      
+        appBarTheme: const AppBarTheme(titleTextStyle: appBarTextStyle),
         textTheme: const TextTheme(
           bodyText1: titleTextStyle,
           bodyText2: bodyTextStyle,

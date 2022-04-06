@@ -26,5 +26,4 @@ const titleTextStyle = TextStyle(
 );
 
 //Style the BodyText
-const bodyTextStyle = TextStyle(
-    fontSize: smallTextSize, color: Colors.black);
+const bodyTextStyle = TextStyle(fontSize: smallTextSize, color: Colors.black);
