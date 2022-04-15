@@ -1,4 +1,6 @@
 import 'package:first_app/location_detail.dart';
+import 'package:first_app/models/location.dart';
+import 'package:first_app/screens/locations/locations.dart';
 import 'package:first_app/style.dart';
 import 'package:flutter/material.dart';
 
@@ -10,7 +12,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: const LocationDetail(),
+      home: const Locations(),
       debugShowCheckedModeBanner: false,
 
       //Using theme and ThemeData to customize your text
